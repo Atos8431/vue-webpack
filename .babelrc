@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "env"
+  ],
+  "plugins": [
+    "transform-vue-jsx"//转化vue中jsx
+  ]
+}
+
+//演示如何使用vue的render()
